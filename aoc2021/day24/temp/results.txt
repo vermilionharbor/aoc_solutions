@@ -1,0 +1,13 @@
+slow scan && fast scan 3xxx.. hit!
+
+
+fast scan 4, nothing
+fast scan 5, nothing
+fast scan 9, nothing
+fast scan 8, nothing
+fast scan 7, nothing
+fast scan 6, nothing
+
+39999698799429 -> highest solution
+18116121134117 -> low solution
+28116121134118 -> yet  another solution
